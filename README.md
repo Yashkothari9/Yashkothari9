@@ -1,6 +1,15 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashkothari9&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashkothari9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ - 🔭 I’m currently working on 
+   -  Java
+   - React Js
+   - Spring Boot
+   - Blockchain
+   - Solidity
+ - 👯 I’m looking to collaborate on
+   - Solidity and Web# related projects
+   - React  
 <!--
 **Yashkothari9/Yashkothari9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
