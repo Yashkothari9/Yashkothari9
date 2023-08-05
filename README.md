@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashkothari9&show_icons=true&theme=radical)
  - 🔭 I’m currently working on 
     -  Java
     - React Js
